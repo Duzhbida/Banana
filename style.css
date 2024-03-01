@@ -1,6 +1,8 @@
+
 body{
-    font-family:  'Roboto', sans-serif;
+    font-family: "Roboto Condensed", sans-serif;
     font-weight: 300;
+    line-height: 1.6;
 }
 
 .center {
@@ -13,10 +15,6 @@ a {
 .img {
     align-items: center;
 }
-@font-face {
-    font-family: face;
-    src: url(./assets/fonts/Roboto-Bold.ttf);
-} 
 
 .left{
     text-align: left;
