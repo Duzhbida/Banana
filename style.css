@@ -1,0 +1,54 @@
+body{
+    font-family:  'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.center {
+    text-align: center;
+}
+.blue, 
+a {
+    color: #0691d7;
+}
+.img {
+    align-items: center;
+}
+@font-face {
+    font-family: face;
+    src: url(./assets/fonts/Roboto-Bold.ttf);
+} 
+
+.left{
+    text-align: left;
+}
+
+.italic{
+    font-style: italic;
+}
+
+  .recept{
+    font-size: 21px;
+    width: 70%;
+    margin: auto;
+}
+.yellow{
+    color: rgb(255, 187, 0);
+}
+.big-font{
+    font-size: 36px;
+    line-height: 1.57;
+}
+.main-title{
+    height: 512px;
+    background-color: #0691d7;
+    background-image: url("./assets/imgs/1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    font-size: 48px;
+    letter-spacing: 5px;
+}
+
+.cooking{
+    line-height: 1.3;}
